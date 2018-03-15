@@ -1,0 +1,159 @@
+INTEGRAL = 11
+       D = 6
+       N = 5
+ NPARAMS = 25
+  NEVALS = 10000000
+     EPS = 0.001
+PSVOLUME = 3.242540652e-07
+ * * * * * * * * *
+   alpha = 2^(-30)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741455  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230031  	chisq 0.00635373 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396735 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952176  	chisq 0.726139 (3 df)
+integral = 62.6(690032707)
+   error = 0.0095217641
+    prob = 0.13296
+totevals = 14000000
+    time = 123s
+ * * * * * * * * *
+   alpha = 2^(-40)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161041)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 123s
+ * * * * * * * * *
+   alpha = 2^(-50)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161177)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 122s
+ * * * * * * * * *
+   alpha = 2^(-60)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161178)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 122s
+ * * * * * * * * *
+   alpha = 2^(-70)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161178)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 122s
+ * * * * * * * * *
+   alpha = 2^(-80)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161178)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 123s
+ * * * * * * * * *
+   alpha = 2^(-90)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161178)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 122s
+ * * * * * * * * *
+   alpha = 2^(-100)
+
+Iteration 1:  2000000 integrand evaluations so far
+[1] 62.6804 +- 0.0741457  	chisq 0 (0 df)
+
+Iteration 2:  5000000 integrand evaluations so far
+[1] 62.6861 +- 0.0230032  	chisq 0.00635383 (1 df)
+
+Iteration 3:  9000000 integrand evaluations so far
+[1] 62.6743 +- 0.0132838  	chisq 0.396723 (2 df)
+
+Iteration 4:  14000000 integrand evaluations so far
+[1] 62.669 +- 0.00952178  	chisq 0.726279 (3 df)
+integral = 62.6(690161178)
+   error = 0.0095217835
+    prob = 0.13299
+totevals = 14000000
+    time = 122s
