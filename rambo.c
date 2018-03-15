@@ -2,6 +2,16 @@
  * number of dimensions by using RAMBO-like mapping from hypercube
  * coordinates into phase space points together with Vegas
  * integration.
+ *
+ * To build this program you'll need GSL [1] and Cuba [2]
+ * libraries ready. Once you have them, place the appropriate
+ * compiler flags into the Makefile and run 'make'.
+ *
+ * Run 'make all-results' to (re)generate the 'results' folder,
+ * or run './rambo -h' to see the usage of this program.
+ *
+ * [1] https://www.gnu.org/software/gsl/
+ * [2] http://www.feynarts.de/cuba/
  */
 
 #define _POSIX_C_SOURCE 199309L
